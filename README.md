@@ -51,6 +51,17 @@ The following API routes have been generated:
 
 To test the API routes, use a tool like Insomnia.
 
+
+Create User
+![image](https://user-images.githubusercontent.com/91171412/159835480-fd702a77-9ab7-432a-a1cd-02dec0ff3280.png)
+
+Create Thought
+![image](https://user-images.githubusercontent.com/91171412/159835518-75979e17-36e8-4380-9368-deedd0b4ceb1.png)
+
+Create Reaction
+![image](https://user-images.githubusercontent.com/91171412/159835554-de933fd2-01f3-4636-bddc-0a7bb0d0d389.png)
+
+
 ## References
 
 - Mongoose: https://mongoosejs.com/

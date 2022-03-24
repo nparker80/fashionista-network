@@ -4,6 +4,11 @@ This application is an API for a social network built using MongoDB (Mongoose). 
 
 A walkthrough of the API functionality is shown in these videos: 
 
+
+Video 1 Post/Get/Put: https://drive.google.com/file/d/1A0O8iNyx8GeXE-djme0pcq0K-wI_dPmJ/view
+
+Video 2 Delete: https://drive.google.com/file/d/1pUGANih910caZoNWRk3N5Mw3CNAzV9Fd/view
+
 The application is build using the following tools & packages:
 
 - Mongoose
@@ -17,7 +22,7 @@ The following API routes have been generated:
 ### For Users:
 
 - GET:
-  - Return all users in the databas
+  - Return all users in the database
   - Return one user by id
 - POST:
   - Create a new user
